@@ -60,6 +60,7 @@ app.get("/help", (req, res) => {
 // app.get('/about', (req, res) => {
 //     res.send('<h1>About Page</h1>')
 // })
+//Test comment
 
 app.get("/weather", (req, res) => {
   // const address = req.query.address;   //This did not work!
